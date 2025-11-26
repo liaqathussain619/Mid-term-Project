@@ -1,0 +1,1 @@
+A complete analysis and machine learning project that predicts loan approval based on applicant information such as income, credit history, dependents, and employment details. The report includes data exploration, preprocessing, model building, evaluation, and final recommendations for improving loan approval accuracy.
